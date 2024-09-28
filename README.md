@@ -1,4 +1,4 @@
-# Anson Chin
+# 🫡 Anson Chin
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+There%F0%9F%91%8B;My+name+is+Anson)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,6 +9,7 @@
 
 
   
+---
 
 ### 🧰 Languages and Tools
 
@@ -27,3 +28,4 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
 <br />
 
+#
