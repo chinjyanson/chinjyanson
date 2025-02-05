@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a big financial plannner webapp (coming soon!)
 - 🌱 I’m interested in automation and how technology finds its ways in business
 - 👯 I’m looking to collaborate on big projects or startup like ideas!
-- ⚡ Fun fact: Did you know a crocodile cant stick its tongue out... 🐊🐊
+- ⚡ I like UDP jokes, because I don't care if you get it. I like TCP jokes, because I can tell them until you get it.
 
 ---
 
