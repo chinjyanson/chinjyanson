@@ -3,9 +3,9 @@
 
 **Recent Graduate from Imperial College London**
   
-- 🔭 I’m currently working on a big financial plannner webapp (coming soon!)
+- 🔭 I’m currently working on multiple things (a stocks screener and a self healing API project)
 - 🌱 I’m interested in automation and how technology finds its ways in business
-- 👯 I’m looking to collaborate on big projects or startup like ideas!
+- 👯 I’m looking to collaborate on big projects or startup-like ideas!
 - ⚡ I like UDP jokes, because I don't care if you get it. I like TCP jokes, because I can tell them until you get it.
 
 ---
